@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains projects developed as part of the "ChatGPT Prompt Engineering for Developers" course. The course covers various principles and techniques of prompt engineering with ChatGPT, including prompting principles, iterative prompt development, inferring, expanding, summarizing, and chat format. Additionally, it includes the implementation of three different AI bots: CountryInfoBot, OrderBot, and JokeBot.
+This repository contains projects developed as part of the "ChatGPT Prompt Engineering for Developers" course by DeepLearning.AI . The course covers various principles and techniques of prompt engineering with ChatGPT, including prompting principles, iterative prompt development, inferring, expanding, summarizing, and chat format. Additionally, it includes the implementation of three different AI bots: CountryInfoBot, OrderBot, and JokeBot.
 
 ## Course Contents
 
