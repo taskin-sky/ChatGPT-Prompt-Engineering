@@ -9,7 +9,7 @@ This repository contains projects developed as part of the "ChatGPT Prompt Engin
 ### Prompt Engineering
 - **Prompting Principles**: Understanding the fundamental principles behind crafting effective prompts for ChatGPT.
 - **Iterative Prompt Development**: Techniques for refining prompts through iterative testing and feedback.
-- **Inferring**: Extracting meaningful insights and information from provided text.
+- **Inferring**: Extracting meaningful insights and information from the provided text.
 - **Expanding**: Generating detailed and extended content from brief prompts.
 - **Summarizing**: Condensing lengthy text into concise summaries.
 - **Chat Format**: Structuring interactive and conversational prompts for dynamic dialogues.
@@ -36,7 +36,7 @@ OrderBot is an automated service for collecting pizza orders at a restaurant. Th
 - Collects delivery address (if needed)
 - Processes payment
 
-The bot ensures to clarify all options, extras, and sizes to uniquely identify items from the menu.
+The bot ensures that all options, extras, and sizes are clarified to identify items from the menu uniquely.
 
 ### JokeBot
 JokeBot is an automated service designed to entertain users with jokes. It:
@@ -47,4 +47,60 @@ JokeBot is an automated service designed to entertain users with jokes. It:
 - Ends the conversation with a friendly note if the user declines another joke
 
 ## Repository Structure
+.
+├── CountryInfoBot/
+│ ├── CountryInfoBot.ipynb
+│ └── ...
+├── OrderBot/
+│ ├── OrderBot.ipynb
+│ └── ...
+├── JokeBot/
+│ ├── JokeBot.ipynb
+│ └── ...
+├── PromptEngineering/
+│ ├── PromptingPrinciples.ipynb
+│ ├── IterativePromptDevelopment.ipynb
+│ ├── Inferring.ipynb
+│ ├── Expanding.ipynb
+│ ├── Summarizing.ipynb
+│ ├── ChatFormat.ipynb
+│ └── ...
+└── README.md
+
+
+
+## How to Run
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/ai-bots-and-prompt-engineering.git
+    ```
+
+2. Navigate to the desired project directory:
+    ```sh
+    cd ai-bots-and-prompt-engineering/CountryInfoBot
+    ```
+
+3. Open the Jupyter Notebook:
+    ```sh
+    jupyter notebook CountryInfoBot.ipynb
+    ```
+
+4. Follow the instructions within the notebook to run and interact with the bot.
+
+## Contributions
+
+Contributions are welcome! If you have any improvements, suggestions, or bug fixes, please create a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or inquiries, please contact [yourname@domain.com](mailto:yourname@domain.com).
+
+---
+
+Happy coding and enjoy exploring the world of AI with these fun and informative bots!
 
