@@ -92,13 +92,10 @@ JokeBot is an automated service designed to entertain users with jokes. It:
 
 Contributions are welcome! If you have any improvements, suggestions, or bug fixes, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact [yourname@domain.com](mailto:yourname@domain.com).
+For any questions or inquiries, please contact [taskinmubassir@gmail.com](mailto:taskinmubassir@gmail.com).
 
 ---
 
